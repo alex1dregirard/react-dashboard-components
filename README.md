@@ -1,5 +1,8 @@
 # react-dashboard-components
 
+Initialisation du projet grâce à https://github.com/insin/nwb/blob/master/docs/guides/ReactComponents.md#creating-a-new-project
+
+
 [![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
