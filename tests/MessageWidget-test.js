@@ -41,6 +41,6 @@ describe('MessageWidget', () => {
 
   it('renders a widget with messages"', () => {
       expect(render(<MessageWidget messages={messages} />))
-      .toNotContain('<div>Pas de message</div>')
+      .toContain('<div class="ms-List ms-bgColor-themeLighterAlt widget" role="list">')
   })    
 })
